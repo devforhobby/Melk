@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Melk</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">نام کاربری</string>
+    <string name="prompt_password">پسورد</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">نام کاربری صحیح نیست</string>
+    <string name="error_invalid_password">پسورد طولانی تر استفاده کنید</string>
+    <string name="error_incorrect_password">پسورد صحیح نیست</string>
+    <string name="error_field_required">پر کردن این فیلد ضروری است</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
